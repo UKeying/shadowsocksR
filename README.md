@@ -1,20 +1,20 @@
 # shadowsocksR
 ubuntu agent
 
-1.install shadowsocks, GUI graphical interface program, configuration
+1.安装shadowsocks，GUI图形界面程序，配置
 
-Install the GUI graphical interface program, and then configure the corresponding parameters in accordance with the prompts.
+安装GUI图形界面程序，然后根据提示配置相应的参数。
 
-Installation tutorial address：[shadowsocks-qt5 install guid](https://github.com/shadowsocks/shadowsocks-qt5/wiki/%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97)
+安装教程地址：[shadowsocks-qt5 install guid](https://github.com/shadowsocks/shadowsocks-qt5/wiki/%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97)
 
-Because of the graphical interface, windows basic configuration and no difference is not much.
+因为图形界面，Windows基本配置并没有差别也不多。
 
-2.Configure the browser, where the use of chrome
+2.配置浏览器，在这里使用Chrome
 
-First, we need to install the SwitchyOmega plugin for Chrome，it is not possible to install this plugin 
-from Google store without proxy,But we can download the latest version from Github， https://github.com/FelisCatus/SwitchyOmega/releases/ ，
+首先，我们需要安装Chrome的switchyomega插件，它不可能安装这个插件
+从谷歌商店没有代理，但是我们可以从GitHub下载最新版本， https://github.com/FelisCatus/SwitchyOmega/releases/ ，
 
-Then the browser address opens Chrome://extensions/，
-Download the plugin to install. Plug in the use and configuration of Baidu.
+然后打开浏览器地址 Chrome://extensions/，
+这两个插件的下载安装。插件的使用和配置的百度。
 
-3.Start Qt5, configure the VPS parameter, enable the plug-in agent, that is, complete
+3.开始QT5，配置VPS参数，启用该插件的代理，即完成
